@@ -3,6 +3,7 @@
 
 # In[95]:
 
+#MODIFIKASI
 
 #import
 import csv 
