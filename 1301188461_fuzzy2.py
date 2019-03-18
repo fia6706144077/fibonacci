@@ -44,6 +44,7 @@ def kPendapatan(y):
     keanggotaan = 0
     
     #rendah
+    hfuerhfuigerfugerieirtgtrgtrgtr
     if pen<sedang_kiri:
         pendapatan_rendah = 1
         keanggotaan = pendapatan_rendah
