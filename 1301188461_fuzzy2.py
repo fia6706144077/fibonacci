@@ -4,6 +4,8 @@
 # In[95]:
 
 #MODIFIKASI
+#MODIKIKASI LAGI COY
+
 
 #import
 import csv 
